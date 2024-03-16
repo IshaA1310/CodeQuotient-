@@ -1,4 +1,4 @@
-
+//counter diagonal
 class Result {
   static void counterDiagonal(int mat[][], int n) {
     for(int col=0; col<n; col++){
